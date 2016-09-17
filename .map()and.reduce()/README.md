@@ -107,4 +107,4 @@ var Comb = _.reduce(jsObj, function(firstvalue, nextvalue, nextKey ){
 });
 
 ```
-__That's all about underscorejs .map() and .reduce()
+__That's all about underscorejs .map() and .reduce()__
