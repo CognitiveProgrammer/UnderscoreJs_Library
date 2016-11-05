@@ -8,4 +8,4 @@ __Underscore Js is a widely used and popular library which provide many function
 
 ## [Module -2 : usage of \_.map() and \_.reduce()  function](https://github.com/Rapid-9/UnderscoreJs_Library/tree/master/.map()and.reduce())
 
-## [Module -2.1 : Tips on usage of \_.map() and \_.reduce()  function](https://github.com/Rapid-9/UnderscoreJs_Library/tree/master/.map()and.reduce())
+## [Module -2.1 : Tips on usage of \_.map() and \_.reduce()  function](https://github.com/Rapid-9/UnderscoreJs_Library/tree/master/Map%20Reduce%20Usage%20Tips)
